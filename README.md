@@ -1,5 +1,7 @@
-**📝 Sign-Up & Login Form with Validation**
+****📝 Sign-Up & Login Form with Validation****
+
 **📌 Project Overview**
+
 This project features a responsive and interactive Sign-Up and Login form built using HTML, CSS, and JavaScript. It includes client-side validation for user inputs and smooth transitions between the Sign-Up and Login sections, enhancing user experience.
 
 **🛠️ Technologies Used**
